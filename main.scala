@@ -49,6 +49,7 @@ object main extends App{
     }
 
 
+    printHorizontal()
 
     /*
     printHorizontal
